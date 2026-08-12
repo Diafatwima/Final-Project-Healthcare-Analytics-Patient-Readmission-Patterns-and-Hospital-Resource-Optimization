@@ -3,3 +3,5 @@ This project focuses on the exploratory data analysis of hospital patient record
 <img width="925" height="499" alt="image" src="https://github.com/user-attachments/assets/d5cb27b7-43ee-43be-a05e-46a100b27539" />
 <img width="1057" height="489" alt="image" src="https://github.com/user-attachments/assets/e59736d7-251f-4afc-a895-7a7bf5416f6a" />
 <img width="594" height="493" alt="image" src="https://github.com/user-attachments/assets/11a9cd30-8cdb-4036-9f1d-3fec6d987935" />
+<img width="808" height="409" alt="image" src="https://github.com/user-attachments/assets/def84b60-145b-4105-856a-3bb1b0c239d5" />
+<img width="1018" height="182" alt="image" src="https://github.com/user-attachments/assets/edde61ae-51a4-4225-9f84-7c96a9c32328" />
