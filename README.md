@@ -1,5 +1,17 @@
 # Final-Project-Healthcare-Analytics-Patient-Readmission-Patterns-and-Hospital-Resource-Optimization
 This project focuses on the exploratory data analysis of hospital patient records.The dataset contains key attributes such as 'Age,Gender,Department,Length of Stay Days,Total Cost USD,Comorbidities Count and Risk Level'.
+Original Dataset from HCUP Nationwide Readmissions Database(NRD) Tools Used:Jupyter Notebook,python(Pandas,Matplotlib,seaborn,Plotly)
+Obejectives of the project: *To analyze patient distribution across age,gender and departments.
+*To study the relationship between Length of Stay Days and Total Treatment Cost.
+*To identify cost-driving departments and resource-intensive patient groups.
+*To v isualize significant patterns,correlation and anomalies in the data.
+*To provide data-driven recommendations for gospital resource optimization.
+
+METHODOLOGY
+1.Data Loading&Cleaning-Checked fo null values,duplicates.Handled missing values.Readmitted 30 Days column had 100% null values and was dropped.
+2.Data Transformation-Created new column Age_group using pd.cut() to group patients into<30,30-45,45-60,60-75,75+ categories.
+3.Exploratory Data Analysis(EDA)-Used value counts(),groupby(),mean()and corr().
+4.Data Visualization-Created 10 visualizations using Matplotlib,seaborn,plotly.
 <img width="991" height="469" alt="image" src="https://github.com/user-attachments/assets/b99c91fb-adcc-4927-8391-169708361937" />
 <img width="915" height="458" alt="image" src="https://github.com/user-attachments/assets/f1fd70db-81bc-4e8d-b409-43c2f297c9de" />
 <img width="919" height="501" alt="image" src="https://github.com/user-attachments/assets/9c8f2eb1-ba5d-4afd-b7d7-e69a7ef02cde" />
