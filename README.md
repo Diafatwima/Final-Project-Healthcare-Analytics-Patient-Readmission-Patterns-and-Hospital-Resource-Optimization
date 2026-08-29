@@ -19,6 +19,6 @@ METHODOLOGY
 <img width="925" height="499" alt="image" src="https://github.com/user-attachments/assets/d5cb27b7-43ee-43be-a05e-46a100b27539" />
 <img width="1057" height="489" alt="image" src="https://github.com/user-attachments/assets/e59736d7-251f-4afc-a895-7a7bf5416f6a" />
 <img width="594" height="493" alt="image" src="https://github.com/user-attachments/assets/11a9cd30-8cdb-4036-9f1d-3fec6d987935" />
-<img width="3024" height="4032" alt="IMG_3887" src="https://github.com/user-attachments/assets/1e538528-55b7-4c79-8d9b-a46aa3b63317" />
-<img width="3024" height="4032" alt="IMG_3883" src="https://github.com/user-attachments/assets/9abfbf1a-d613-434d-b54d-95b3544fc98a" />
+<img width="535" height="247" alt="Screenshot 2026-08-29 143220" src="https://github.com/user-attachments/assets/60c88d3f-6364-43ff-996a-952e8c12f9aa" />
+<img width="474" height="199" alt="Screenshot 2026-08-29 143325" src="https://github.com/user-attachments/assets/e1938b2f-22b8-496d-b224-453da1f51846" />
 
