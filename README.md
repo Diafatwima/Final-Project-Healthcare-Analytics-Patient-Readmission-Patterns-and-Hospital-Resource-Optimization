@@ -1,6 +1,6 @@
 # Final-Project-Healthcare-Analytics-Patient-Readmission-Patterns-and-Hospital-Resource-Optimization
 This project focuses on the exploratory data analysis of hospital patient records.The dataset contains key attributes such as 'Age,Gender,Department,Length of Stay Days,Total Cost USD,Comorbidities Count and Risk Level'.
-Original Dataset from HCUP Nationwide Readmissions Database(NRD) Tools Used:Jupyter Notebook,python(Pandas,Matplotlib,seaborn,Plotly)
+Original Dataset from HCUP Nationwide Readmissions Database(NRD).Tools Used:Jupyter Notebook,python(Pandas,Matplotlib,seaborn,Plotly).
 Obejectives of the project: *To analyze patient distribution across age,gender and departments.
 *To study the relationship between Length of Stay Days and Total Treatment Cost.
 *To identify cost-driving departments and resource-intensive patient groups.
