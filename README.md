@@ -4,8 +4,8 @@ Original Dataset from HCUP Nationwide Readmissions Database(NRD).Tools Used:Jupy
 Obejectives of the project: *To analyze patient distribution across age,gender and departments.
 *To study the relationship between Length of Stay Days and Total Treatment Cost.
 *To identify cost-driving departments and resource-intensive patient groups.
-*To v isualize significant patterns,correlation and anomalies in the data.
-*To provide data-driven recommendations for gospital resource optimization.
+*To visualize significant patterns,correlation and anomalies in the data.
+*To provide data-driven recommendations for hospital resource optimization.
 
 METHODOLOGY
 1.Data Loading&Cleaning-Checked fo null values,duplicates.Handled missing values.Readmitted 30 Days column had 100% null values and was dropped.
